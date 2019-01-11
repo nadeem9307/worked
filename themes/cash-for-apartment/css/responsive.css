@@ -1,0 +1,499 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (max-width:1199px){
+.menu .navbar-nav > li > a {
+	font-size: 12px;
+	padding: 15px 6px;
+	line-height: 50px;
+}	
+.invest_wrapper h3 {
+    font-size: 1.4em;
+}
+.menu_section.header-section-div.fixed {
+	width: auto;
+}
+.header-bottom .navbar-nav > li {
+    margin: 0 20px 0 0;
+}
+/********header section*********/
+.filter {
+     padding: 15px;
+}
+.location-input{
+	 padding:0px;
+}
+.slide .item {
+    height: 800px;
+}
+.steps-icon {
+    width: 130px;
+    height: 130px;
+}
+.step-details{ 
+    padding:0px;
+}
+.fb-feed iframe{
+	width:100%;
+}
+.white-bg {
+    padding: 10px;
+}
+.title >span {
+    font-size: 24px;
+}
+.client-description {
+    padding-bottom: 110px;
+}
+.our-hco-img{ 
+    width:100%;
+}
+.height-cash{
+	width:100%;
+}
+.Locale_en_GB ._2p3a, #u_0_0, ._2p3a, .uiScaledImageContainer._2zfr, .uiScaledImageContainer._2zfr, ._2p3a, .uiScaledImageContainer, ._2p3a
+{
+    width: 100% !important;
+}
+.information-bar p {
+    width: 75%;
+}
+.date {
+    bottom: -12px;
+}
+.header-information .fa {
+    font-size: 1.8em;
+}
+.header-search {
+    width: 144px;
+}
+.header-search .form-control{width: 100%;}
+.header-separator {
+    margin: 0px 5px 0 5px;
+}
+.header-information {
+    margin: 0px 0px 0px 10px;
+}
+.header-logo img{   
+      width: 175px;
+}
+.header-information .fa {
+    margin: 0px 5px 0 0;
+}
+.header-search a{
+	font-size: 12px;
+    line-height: 14px;
+}
+
+}
+
+@media (max-width:980px){
+	
+.menu .navbar-nav > li > a {
+	font-size: 10px;
+	padding: 15px 3px;
+	line-height: 30px;
+}
+#slider_header {
+    background-attachment: scroll;
+	position: relative;
+}
+.aboutUs-content p {
+	padding-left: 0;
+	padding-right: 0;
+}
+.services-box {
+	height: 340px !important;
+}
+.row.block-1 .services-box.box {
+	margin: 2em 0 0;
+}
+.ticker #ticker_value li {
+	margin: 3rem 1.5rem;
+}
+.section-class-item p {
+	font-size: 1.2rem;
+	line-height: 20px;
+}
+.section-class-item h3 {
+	font-size: 1.5rem;
+}
+.invest_wrapper h3 {
+	font-size: 1em;
+}
+.invest_wrapper p {
+    font-size: 12px;
+}
+/************CONFIDENTIAL input form ************/
+.information-required {
+    width: 100%;
+}
+.form-bg p {
+    font-size: 15px;
+    padding-right: 0px;
+}
+.header-information {
+    margin: 0px 0px 0px 4px;
+}
+.header-information .fa {
+    font-size: 18px;
+}
+
+	
+	
+}
+
+@media (max-width:767px){
+.navbar-toggle .icon-bar {
+	background: #fff;
+}
+#logo {
+	width: 40%;
+}
+.navbar-toggle {
+	margin-top: 20px;
+	margin-right: 0;
+	border: 1px solid #fff;
+}
+.menu #navbar {
+	position: absolute;
+	left: 0;
+	right: 0;
+	width: 93%;
+	margin: 0 auto;
+	background: #fff;
+	text-align: right;
+	z-index: 99;
+}
+.menu .navbar-nav {
+    margin: 0;
+    width: 100%;
+}
+.menu .navbar-nav > li > a {
+	font-size: 14px;
+	padding: 5px 15px;
+	line-height: 30px;
+	color: #fff;
+}
+.col-md-9.col-sm-9.col-xs-2.menu, .col-md-9.col-sm-9.col-xs-2.menu .navbar-header, .menu_section.header-section-div.fixed {
+	position: inherit;
+}
+.bchlend_text {
+    right: 0;
+    top: 50%;
+}
+.orange_btn {
+	margin: 0px auto 10px;
+	display: inline-block;
+	padding: 7px 16px;
+}
+.top_header_btom {
+	padding: 0 25px;
+}
+
+h2.single-page-title {
+	font-size: 35px;
+}
+.builder-content {
+	width: 100%;
+}
+.custom_heading {
+	border: 3px solid #ff7e00;
+	font-size: 2.6rem;
+}
+.services-box {
+	height: auto !important;
+}
+.ui.buttons .or:before {
+	top: -25px;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+.orange-btn.inverted-button, .blue-btn.inverted-button {
+	border-radius: 8px;
+	margin-top: 0px;
+}
+.blue-btn.inverted-button{ margin-top:15px;}
+.orange_btn a {
+	font-size: 13px;
+	display: block;
+}
+.ui.buttons .or {
+	position: relative;
+	width: 100%;
+}
+.menu_section.header-section-div.fixed .navbar-toggle {
+	margin-top: 25px;
+	border: 1px solid #6b6d6f;
+}
+.menu_section.header-section-div.fixed .navbar-toggle .icon-bar {
+	background: #6b6d6f;
+}
+.services .section-class-image img {
+	position: relative;
+}
+.section-class-item .icon-wrap {
+	margin: 0 auto 15px;
+}
+.items-right .item-icon {
+	padding-left: 0;
+}
+.item-text, .item-icon {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+.section-class-item {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.whyChoose, .weAreDiffrent, .serviceOffering {
+	padding-right: 15px !important;
+	padding-left: 15px !important;
+	min-height: 100%;
+}
+.invest_wrapper h3 {
+	font-size: 1.6em;
+}
+.invest_wrapper p {
+	font-size: 14px;
+}
+.faq .panel-title {
+	line-height: 18px;
+}
+.faq .panel-default > .panel-heading {
+	height: auto;
+}
+.faq .panel-default > .panel-heading + .panel-collapse > .panel-body {
+	line-height: 20px;
+	font-size: 15px;
+}
+.footer-page-wrapper h2 {
+	font-size: 30px;
+}
+.footer-page-wrapper h3 {
+	font-size: 30px;
+}
+.btn-top {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+#contact.padding_90 {
+	padding-bottom: 20px;
+}
+footer ul.secondary li a {
+	font-size: 11px;
+	padding: 3px;
+}
+.wpb_wrapper h2 {
+	font-size: 22px;
+}
+.wpb_wrapper p > strong {
+	font: 500 24px/1.2em "Roboto", sans-serif;
+}
+.header-topbar-right ul.nav{
+	 display:none;
+}
+.header-logo, .header-search {
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.header-separator {
+    display: none;
+}
+.header-logo img {
+	 margin-bottom: 5px;
+}
+.header-information {
+    width: 100%;
+	margin-bottom: 6px;
+}
+.header-information span{
+	 margin:0px;
+}
+.navbar-toggle .icon-bar {
+    background: #000000;
+}
+.navbar-toggle {
+    border: 1px solid #000000;
+   /* position: absolute;
+    top: 35px;
+    right: 15px;*/
+}
+.header-bottom {
+    position: absolute;
+    top: 35px;
+    right: 15px;
+    z-index: 99999;
+}
+.menu #navbar {
+    position: relative;
+    left: 15px;
+    right: 0;
+    width: 100%;
+    top: -7px;
+    z-index: 99999;
+}
+.header-bottom .navbar-nav > li {
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+	text-align: center;
+}
+.header-top{
+	padding: 10px 0px;
+}
+.location_form {
+    z-index: 99;
+	top: 25px;
+	position: relative;
+}
+.about- p{ 
+       padding-right:0px;
+}
+.about- h1 {
+    margin: 25px 0 25px;
+}
+.about- ul > li {
+    padding: 5px 0;
+    font-size: 16px;
+}
+.filter {
+    padding: 30px;
+}
+.padding-L-R {
+    padding: 0px;
+}
+.works .steps-icon {
+    margin: 0 auto;
+}
+.step-details .sub-titles {
+    text-align: center;
+}
+
+.hp-locations ul.location-list li {
+    display: block;
+    font-size: 14px;
+    margin: 0 0 0.9em;
+}
+.uiScaledImageContainer, div._2p3a {
+    width: 100% !important;
+}
+.carousel {
+    position: absolute;
+    width: 100%;
+    top: 0;
+}
+.about- h1 {
+    font-size: 34px;
+    line-height: 40px;
+}
+.information-bar{
+	 text-align:center;
+}
+.information-bar p {
+    width: 100%;
+    line-height: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.steps-icon {
+    box-shadow: 0px 5px 0 #cacaca;
+}
+.step-details p {
+    text-align: center;
+}
+.height-cash.text-right{
+	text-align: left;
+}
+.hp-locations ul.location-list {
+    column-count: 2;
+}
+.information-bar .rounded-btn{ 
+   float:none;
+}
+.footer-bottom .nav-item:after {
+    padding: 0 15px 0 15px;
+}
+.footer-top h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.footer-left, .footer-right {
+    margin-bottom: 0px;
+}
+.header-information-block {
+    font-size: 16px;
+}
+.header-information .fa {
+    font-size: 22px;
+}
+.header-information {
+    width: 46%;
+    margin-bottom: 6px;
+    float: left;
+}
+.header-information span {
+    font-size: .6em;
+}
+.steps-icon{
+	width: 220px;
+    height: 220px;
+}
+.footer-top p{
+	margin: 0 0 10px 0;
+	}
+.footer-top-left, .footer-center {
+	margin-bottom: 45px;
+}
+.from-the-blog h3 {
+	margin-top: 10px;
+}
+.footer-top-right li.contatUs {
+    margin-top: 5px;
+}
+.confidential-required{ 
+      width:100%;	
+}
+.form-bg {
+    padding: 30px 30px;
+}
+.header-information strong > a, .header-information strong {
+    font-size: 14px;
+    font-weight: 600;
+}
+.header-information {
+    margin: 0px 0px 0px 0px;
+}
+.header-search a {
+    font-size: 14px;
+    line-height: 14px;
+}
+
+}
+
+
+@media (max-width:680px){
+#slider_header {
+	height: 450px;
+}
+}
+@media (max-width:580px){
+#logo {
+	width: 100%;
+}
+.bg {
+	background-position: center;
+}
+.login-form .form-control {
+	margin-left: 35px;
+}
+@media (max-width:540px){
+ .header-information {
+    width: 100%;
+}
+
+
+}
